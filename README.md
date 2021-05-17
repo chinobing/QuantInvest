@@ -11,6 +11,9 @@
 - 雪球:  
   - [柯西君_BingWong](https://xueqiu.com/u/enalpha) - Python + 炒股 = 功夫+足球，I’m 跨界韭菜.
 
+ - 数据源
+  - [tushare.pro大数据开放社区](https://tushare.pro/register?reg=333980) - 免费数据，但需要一定的积分； 这里的股票数据基本是用了tushare的API
+
 
 ## 目录
 ### 个股分析
