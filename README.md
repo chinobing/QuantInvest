@@ -26,3 +26,7 @@
 ### 金融模型
 - [股利贴现模型 - 年化复合增长率(CAGR)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%87%91%E8%9E%8D%E6%A8%A1%E5%9E%8B/Compound%20Annual%20Growth%20Rate%20(CAGR).ipynb)
     - 股利贴现模型 - 年化复合增长率(CAGR) - [cnVaR](https://cnvar.cn/2021/06/10/chinese-stock-compounded-annual-growth-rate/)
+
+### 选股策略
+- [PEG指标(市盈率相对盈利增长比率)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%80%89%E8%82%A1/PEG.ipynb)
+    - 使用Python利用PEG指标选取同行中最具性价比的股票 - [cnVaR](https://cnvar.cn/2021/06/11/chinese-stock-PEG-stock-selections/)
