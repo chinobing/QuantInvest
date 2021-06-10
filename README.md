@@ -22,3 +22,6 @@
 ### 市场研究
  - [科创板、创业板活跃情况](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6/%E7%A7%91%E5%88%9B%E6%9D%BF%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%B4%BB%E8%B7%83%E6%83%85%E5%86%B5.ipynb)
     - 科创板、创业板流动性不足，60%的股票已成僵尸股？ - [雪球](https://xueqiu.com/1376904303/181000930) 、[cnVaR](https://cnvar.cn/2021/05/27/chinese-market-liquidity/)、[微信公众号](https://mp.weixin.qq.com/s/O0a9YlKJN_lF99pg9SPKtg)
+
+### 金融模型
+- [股利贴现模型 - 年化复合增长率(CAGR)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%87%91%E8%9E%8D%E6%A8%A1%E5%9E%8B/Compound%20Annual%20Growth%20Rate%20(CAGR).ipynb) - [cnVaR](https://cnvar.cn/2021/06/10/chinese-stock-compounded-annual-growth-rate/)
