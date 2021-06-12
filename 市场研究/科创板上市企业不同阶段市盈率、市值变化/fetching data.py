@@ -7,7 +7,6 @@ import tushare as ts
 import pandas as pd
 from datetime import datetime
 import time
-from crawlab import save_item
 
 pro = ts.pro_api('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
 
