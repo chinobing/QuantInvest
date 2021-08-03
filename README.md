@@ -32,6 +32,10 @@
     - 获取数据 - [cnVaR](https://cnvar.cn/2020/10/18/kcb-stats-data/)
     - 动态图 - [cnVaR](https://cnvar.cn/2020/10/20/kcb-stats-animation/)
 
+ - [发关注函（妖股证）后 - 股票后续走势情况](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6/%E5%8F%91%E5%A6%96%E8%82%A1%E8%AF%81%E5%90%8E%20-%20%E6%B6%A8%E5%81%9C%E6%83%85%E5%86%B5.ipynb)
+    - 发关注函（妖股证）之后的股票还能买吗：上能电气 - [微信公众号](https://mp.weixin.qq.com/s/Vn5rQ-ciivJKZgAPDvPuVQ)
+
+
 
 ### 金融模型
 - [股利贴现模型 - 年化复合增长率(CAGR)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%87%91%E8%9E%8D%E6%A8%A1%E5%9E%8B/Compound%20Annual%20Growth%20Rate%20(CAGR).ipynb)
