@@ -44,6 +44,7 @@
 ### 选股策略
 - [PEG指标(市盈率相对盈利增长比率)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%80%89%E8%82%A1/PEG.ipynb)
     - 使用Python利用PEG指标选取同行中最具性价比的股票 - [cnVaR](https://cnvar.cn/2021/06/11/chinese-stock-PEG-stock-selections/)
+    - 中了新股该如何操作？什么时候走最合适？浙版传媒 - [微信公众号](https://mp.weixin.qq.com/s/3Nyd0TssQFvGcaRL5hPIKQ)
 - [利用现金循环周期选股](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%80%89%E8%82%A1/cash-circulation.ipynb)
     - 空手套白狼：python发现哪些公司具备“两头吃（定价权）”的实力 - [cnVaR](https://cnvar.cn/2021/06/24/chinese-stock-with-pricing-power/)
 - [ 企业价值（EV）与EBITDA比率的选股策略](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%80%89%E8%82%A1/EV-EBITDA-stocks.ipynb)
