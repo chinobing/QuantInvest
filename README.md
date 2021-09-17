@@ -37,7 +37,7 @@
 
  - [股票一年后解禁的股价走势，是否有套利空间？]()
     - 1、次新股一年后解禁是否有上涨空间？（初步结论+引申问题+后续研究方向） - [微信公众号](https://mp.weixin.qq.com/s/3tQR1o5keLUy0oRMXm7L_g)
-    - 待续。。。
+    - 2、新股解禁后是否有上涨空间的影响因素：市值、PE、流通盘 - [微信公众号](https://mp.weixin.qq.com/s/7q7mNLivufaPtWHh_Agthg)
 
 
 ### 金融模型
