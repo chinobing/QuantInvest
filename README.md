@@ -38,7 +38,9 @@
  - [股票一年后解禁的股价走势，是否有套利空间？]()
     - 1、次新股一年后解禁是否有上涨空间？（初步结论+引申问题+后续研究方向） - [微信公众号](https://mp.weixin.qq.com/s/3tQR1o5keLUy0oRMXm7L_g)
     - 2、新股解禁后是否有上涨空间的影响因素：市值、PE、流通盘 - [微信公众号](https://mp.weixin.qq.com/s/7q7mNLivufaPtWHh_Agthg)
-
+   
+ - [IPO首发企业市盈率（PE）走势研究]()
+    - 谁在裸泳？科创板、创业板（注册制）IPO首发企业市盈率（PE）走势 - [微信公众号](https://mp.weixin.qq.com/s/DXYnnwjqzr_swK13uycGzQ)
 
 ### 金融模型
 - [股利贴现模型 - 年化复合增长率(CAGR)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%87%91%E8%9E%8D%E6%A8%A1%E5%9E%8B/Compound%20Annual%20Growth%20Rate%20(CAGR).ipynb)
