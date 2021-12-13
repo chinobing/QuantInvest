@@ -8,6 +8,7 @@
 
  - 数据源：
    - [tushare.pro大数据开放社区](https://tushare.pro/register?reg=333980) - 免费数据，但需要一定的积分； 这里的股票数据基本是用了tushare的API
+   - [akshare](https://www.akshare.xyz/) - 完全免费的开源财经数据接口库
 
  - 公众号：跨界韭菜
    - ![](https://cdn.jsdelivr.net/gh/filess/img16@main/2021/05/13/1620876518337-b0e0974f-0394-4e96-a0b4-8ee7b700e8c6.png)
