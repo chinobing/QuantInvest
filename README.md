@@ -24,6 +24,10 @@
  - [个股历史PE走势](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90/%E4%B8%AA%E8%82%A1%E5%8E%86%E5%8F%B2PE%E8%B5%B0%E5%8A%BF.ipynb)
     - 利用历史PE判断股票是否被高估：中材科技 - [微信公众号](https://mp.weixin.qq.com/s/782-PBrP8SEhOANlAxbXnw)
 
+ - [持股集中度](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90/%E8%82%A1%E4%B8%9C%E4%BA%BA%E6%95%B0%E4%B8%8E%E5%B8%82%E5%80%BC%E7%9A%84%E7%9B%B8%E5%85%B3%E6%80%A7.ipynb)
+    - 股东人数及持股集中度与股票涨跌幅关系 - [微信公众号](https://mp.weixin.qq.com/s/A0h8Ej0uT8S3ubKTFV8aaA)
+
+
 ### 市场研究
  - [科创板、创业板活跃情况](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6/%E7%A7%91%E5%88%9B%E6%9D%BF%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%B4%BB%E8%B7%83%E6%83%85%E5%86%B5.ipynb)
     - 科创板、创业板流动性不足，60%的股票已成僵尸股？ - [雪球](https://xueqiu.com/1376904303/181000930) 、[cnVaR](https://cnvar.cn/2021/05/27/chinese-market-liquidity/)、[微信公众号](https://mp.weixin.qq.com/s/O0a9YlKJN_lF99pg9SPKtg)
