@@ -65,6 +65,6 @@
     - 移动平均线(MA)交易策略回测 - [cnVaR](https://cnvar.cn/2019/02/06/backtesting-moving-average/)、[微信公众号](https://mp.weixin.qq.com/s/hfkMAFSJfdqnh-wPQA9kPQ)
 
 ## 爬虫类
-- 【pyspider】美国实体清单 - US Entity List
+- [【pyspider】美国实体清单 - US Entity List](https://github.com/chinobing/QuantInvest/tree/main/%E7%88%AC%E8%99%AB/US_Entity_List)
   - 地址：`https://www.commerce.gov/tags/entity-list`
   - 更新时间：2021-12-24
