@@ -47,6 +47,10 @@
  - [IPO首发企业市盈率（PE）走势研究]()
     - 谁在裸泳？科创板、创业板（注册制）IPO首发企业市盈率（PE）走势 - [微信公众号](https://mp.weixin.qq.com/s/DXYnnwjqzr_swK13uycGzQ)
 
+ - [申报企业-保荐机构统计](https://github.com/chinobing/QuantInvest/blob/main/%E5%B8%82%E5%9C%BA%E7%A0%94%E7%A9%B6/%E7%94%B3%E6%8A%A5%E4%BC%81%E4%B8%9A_%E4%BF%9D%E8%8D%90%E6%9C%BA%E6%9E%84%E7%BB%9F%E8%AE%A1.ipynb)
+    - 保荐机构哪家强？企业上市通过率分析 - [微信公众号](https://mp.weixin.qq.com/s/wCtnnWvd4Ec5mur97hX0vA)
+
+
 ### 三、金融模型
 - [股利贴现模型 - 年化复合增长率(CAGR)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%87%91%E8%9E%8D%E6%A8%A1%E5%9E%8B/Compound%20Annual%20Growth%20Rate%20(CAGR).ipynb)
     - 股利贴现模型 - 年化复合增长率(CAGR) - [cnVaR](https://cnvar.cn/2021/06/10/chinese-stock-compounded-annual-growth-rate/)
