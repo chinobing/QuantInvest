@@ -63,6 +63,8 @@
     - 空手套白狼：python发现哪些公司具备“两头吃（定价权）”的实力 - [cnVaR](https://cnvar.cn/2021/06/24/chinese-stock-with-pricing-power/)
 - [ 企业价值（EV）与EBITDA比率的选股策略](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%80%89%E8%82%A1/EV-EBITDA-stocks.ipynb)
     - 企业价值（EV）与EBITDA比率的选股策略：隆基股份、中环股份 - [微信公众号](https://mp.weixin.qq.com/s/ahlS6IJ0C9lZx0qa2JAhog)
+- [同行业跌幅排行榜](./blob/main/%E9%80%89%E8%82%A1/Stock_Maximum_Drawdown.ipynb)
+    - 同行业跌幅排行榜，抄底个股 - [微信公众号](https://mp.weixin.qq.com/s/eKt2xhvpp8McBAfYiqyxQA)
 
 ### 五、交易策略
 - [移动平均线(MA)交易策略回测](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/backtesting_moving_average.ipynb)
