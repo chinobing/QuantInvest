@@ -16,15 +16,14 @@
 
 ## 理论实践
 ### 一、金融模型
-- [股利贴现模型 - 年化复合增长率(CAGR)](/理论实践/金融模型/Compound-Annual-Growth-Rate.ipynb)
-   - 股利贴现模型 - 年化复合增长率(CAGR) - 【[cnVaR](https://cnvar.cn/2021/06/10/chinese-stock-compounded-annual-growth-rate/)】
+- [股利贴现模型 - 年化复合增长率(CAGR)](/理论实践/金融模型/Compound-Annual-Growth-Rate.ipynb) - 【[cnVaR](https://cnvar.cn/2021/06/10/chinese-stock-compounded-annual-growth-rate/)】
 
 ## 量化分析
 ### 一、分析方法
-#### （1）因子分析（Factor Analysis）
+#### （1）[因子分析（Factor Analysis）](https://cnvar.cn/quant/factor-analysis-intro.html)
 - [入门介绍 - 人格特征](/量化分析/分析方法/Factor%20Analysis/introduction-factor-analysis.ipynb) - 【[cnVaR](https://cnvar.cn/quant/introduction-factor-analysis.html)】
 
-#### （2）主成分分析(Principal Component Analysis)
+#### （2）[主成分分析(Principal Component Analysis)](https://cnvar.cn/quant/principle-component-analysis-intro.html)
 - 暂无
 
 ### 二、个股分析
@@ -65,8 +64,7 @@
     - 同行业跌幅排行榜，抄底个股 - 【[微信公众号](https://mp.weixin.qq.com/s/eKt2xhvpp8McBAfYiqyxQA)】
 
 ## 量化交易
-- [移动平均线(MA)交易策略回测](/量化交易/backtesting_moving_average.ipynb)
-    - 移动平均线(MA)交易策略回测 - 【[cnVaR](https://cnvar.cn/2019/02/06/backtesting-moving-average/)】、【[微信公众号](https://mp.weixin.qq.com/s/hfkMAFSJfdqnh-wPQA9kPQ)】
+- [移动平均线(MA)交易策略回测](/量化交易/backtesting_moving_average.ipynb) - 【[cnVaR](https://cnvar.cn/2019/02/06/backtesting-moving-average/)】、【[微信公众号](https://mp.weixin.qq.com/s/hfkMAFSJfdqnh-wPQA9kPQ)】
 
 ## 搞搞震
 ## 一、爬虫类
