@@ -15,6 +15,13 @@
 
 
 ## 量化分析类
+### 一、分析方法
+#### 因子分析（Factor Analysis）
+- [入门介绍 - 人格特征](introduction-factor-analysis.ipynb) - [cnVaR](https://cnvar.cn/quant/introduction-factor-analysis.html)
+
+#### 主成分分析(Principal Component Analysis)
+- 暂无
+
 ### 一、个股分析
 - [股票含金量 - 马靖昊](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90/%E9%A9%AC%E9%9D%96%E6%98%8A_%E8%82%A1%E7%A5%A8%E5%90%AB%E9%87%91%E9%87%8F.ipynb)
     - 隆基股份、中环股份、东方日升、天合光能的财务报表含金量情况分析 - [cnVaR](https://cnvar.cn/2021/05/17/quality-of-stocks/)
