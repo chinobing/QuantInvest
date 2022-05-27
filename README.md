@@ -16,28 +16,25 @@
 
 ## 理论实践
 ### 一、金融模型
-- [股利贴现模型 - 年化复合增长率(CAGR)](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E9%87%91%E8%9E%8D%E6%A8%A1%E5%9E%8B/Compound%20Annual%20Growth%20Rate%20(CAGR).ipynb)
+- [股利贴现模型 - 年化复合增长率(CAGR)](/理论实践/金融模型/Compound-Annual-Growth Rate（CAGR）.ipynb)
    - 股利贴现模型 - 年化复合增长率(CAGR) - 【[cnVaR](https://cnvar.cn/2021/06/10/chinese-stock-compounded-annual-growth-rate/)】
 
-## 量化分析类
+## 量化分析
 ### 一、分析方法
 #### （1）因子分析（Factor Analysis）
-- [入门介绍 - 人格特征](/量化分析/分析方法/Factor%20Analysis/introduction-factor-analysis.ipynb) 【[cnVaR](https://cnvar.cn/quant/introduction-factor-analysis.html)】
+- [入门介绍 - 人格特征](/量化分析/分析方法/Factor%20Analysis/introduction-factor-analysis.ipynb) - 【[cnVaR](https://cnvar.cn/quant/introduction-factor-analysis.html)】
 
 #### （2）主成分分析(Principal Component Analysis)
 - 暂无
 
 ### 二、个股分析
-- [股票含金量 - 马靖昊](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90/%E9%A9%AC%E9%9D%96%E6%98%8A_%E8%82%A1%E7%A5%A8%E5%90%AB%E9%87%91%E9%87%8F.ipynb)
+- [股票含金量 - 马靖昊](/量化分析/个股分析/quality-of-stocks.ipynb)
     - 隆基股份、中环股份、东方日升、天合光能的财务报表含金量情况分析 - 【[cnVaR](https://cnvar.cn/2021/05/17/quality-of-stocks/)】
-
- - [叶飞概念股票分析](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90/%E5%8F%B6%E9%A3%9E%E6%A6%82%E5%BF%B5%E8%82%A1%E7%A5%A8%E5%88%86%E6%9E%90.ipynb)
+ - [叶飞概念股票分析](/量化分析/个股分析/yefei-concept-analysis.ipynb)
     - 真假叶飞概念股，市值管理就可以为所欲为？？不服来辩！！！！ - 【[雪球](https://xueqiu.com/1376904303/180650865)】 、【[cnVaR](https://cnvar.cn/2021/05/24/yefei-concept/)】
-
- - [个股历史PE走势](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90/%E4%B8%AA%E8%82%A1%E5%8E%86%E5%8F%B2PE%E8%B5%B0%E5%8A%BF.ipynb)
+ - [个股历史PE走势](/量化分析/个股分析/PE-ratio-histroical-chart.ipynb)
     - 利用历史PE判断股票是否被高估：中材科技 - 【[微信公众号](https://mp.weixin.qq.com/s/782-PBrP8SEhOANlAxbXnw)】
-
- - [持股集中度](https://github.com/chinobing/cnvar.cn-source-code/blob/main/%E4%B8%AA%E8%82%A1%E5%88%86%E6%9E%90/%E8%82%A1%E4%B8%9C%E4%BA%BA%E6%95%B0%E4%B8%8E%E5%B8%82%E5%80%BC%E7%9A%84%E7%9B%B8%E5%85%B3%E6%80%A7.ipynb)
+ - [持股集中度](/量化分析/个股分析/correlation-shareholders-market-value.ipynb)
     - 股东人数及持股集中度与股票涨跌幅关系 - 【[微信公众号](https://mp.weixin.qq.com/s/A0h8Ej0uT8S3ubKTFV8aaA)】
 
 ### 三、市场研究/选股策略
