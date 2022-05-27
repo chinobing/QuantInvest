@@ -17,7 +17,7 @@
 ## 量化分析类
 ### 一、分析方法
 #### 因子分析（Factor Analysis）
-- [入门介绍 - 人格特征](量化分析/分析方法/Factor Analysis/introduction-factor-analysis.ipynb) 【[cnVaR](https://cnvar.cn/quant/introduction-factor-analysis.html)】
+- [入门介绍 - 人格特征](../量化分析/分析方法/Factor Analysis/introduction-factor-analysis.ipynb) 【[cnVaR](https://cnvar.cn/quant/introduction-factor-analysis.html)】
 
 #### 主成分分析(Principal Component Analysis)
 - 暂无
