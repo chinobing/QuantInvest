@@ -16,7 +16,7 @@
 
 ## 理论实践
 ### 一、金融模型
-- [股利贴现模型 - 年化复合增长率(CAGR)](/理论实践/金融模型/Compound-Annual-Growth Rate（CAGR）.ipynb)
+- [股利贴现模型 - 年化复合增长率(CAGR)](/理论实践/金融模型/Compound-Annual-Growth-Rate.ipynb)
    - 股利贴现模型 - 年化复合增长率(CAGR) - 【[cnVaR](https://cnvar.cn/2021/06/10/chinese-stock-compounded-annual-growth-rate/)】
 
 ## 量化分析
