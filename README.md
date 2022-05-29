@@ -22,6 +22,7 @@
 ### 一、分析方法
 #### （1）[因子分析（Factor Analysis）](https://cnvar.cn/quant/factor-analysis-intro.html)
 - [入门介绍 - 人格特征](/量化分析/分析方法/Factor%20Analysis/introduction-factor-analysis.ipynb) - 【[cnVaR](https://cnvar.cn/quant/introduction-factor-analysis.html)】
+- [基于S&P500上市公司财务指标](/量化分析/分析方法/Factor%20Analysis/FactorAnalysisForCompaniesBasedOnFinancialMetricsDuringCovid19.ipynb) - 【[cnVaR](https://cnvar.cn/quant/FactorAnalysisForCompaniesBasedOnFinancialMetricsDuringCovid19.html)】
 
 #### （2）[主成分分析(Principal Component Analysis)](https://cnvar.cn/quant/principle-component-analysis-intro.html)
 - 暂无
