@@ -27,6 +27,10 @@
 #### （2）[主成分分析(Principal Component Analysis)](https://cnvar.cn/quant/principle-component-analysis-intro.html)
 - 暂无
 
+#### （3）[回归分析（Regression Analysis）](https://cnvar.cn/quant/linear-regression-intro.html)
+- [回归分析预测黄金价格走势](/量化分析/分析方法/Regression/gold-price-regression-model.ipynb) - 【[cnVaR](https://cnvar.cn/quant/gold-price-regression-model.html)】
+
+
 ### 二、个股分析
 - [股票含金量 - 马靖昊](/量化分析/个股分析/quality-of-stocks.ipynb)
     - 隆基股份、中环股份、东方日升、天合光能的财务报表含金量情况分析 - 【[cnVaR](https://cnvar.cn/2021/05/17/quality-of-stocks/)】
