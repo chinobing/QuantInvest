@@ -29,7 +29,7 @@
 
 #### （3）[回归分析（Regression Analysis）](https://cnvar.cn/quant/linear-regression-intro.html)
 - [回归分析预测黄金价格走势](/量化分析/分析方法/Regression/gold-price-regression-model.ipynb) - 【[cnVaR](https://cnvar.cn/quant/gold-price-regression-model.html)】
-
+- [回归分析预测房价](/量化分析/分析方法/Regression/predict-bay-area-home-price.ipynb) - 【[cnVaR](https://cnvar.cn/quant/predict-bay-area-home-price.html)】
 
 ### 二、个股分析
 - [股票含金量 - 马靖昊](/量化分析/个股分析/quality-of-stocks.ipynb)
